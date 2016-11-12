@@ -1,6 +1,8 @@
 # Build a Fucking Weather App
 
-In this course we'll be cloning the amazing <a href='http://authenticweather.com/'>Authentic Weather App<a> by the genius designer <a href='http://www.vanschneider.com/'>Tobias Van Schneider</a>. We'll learn the absolute basics of <a href='https://medium.com/@JustinNothling/why-you-should-learn-react-native-3c1478e6d7f4'>React Native</a> and programming in Javascript. So if you're new to React Native, or just new to programming altogether, then this course is for you. . . and the best part. . . it's free. Signup at <a href='https://cloneable.io/'>Cloneable</a>
+Source code from the <a href='https://cloneable.io/'>Cloneable course</a>, Signup at <a href='https://cloneable.io/'>Cloneable</a> - it's free.
+
+In this course we'll be cloning the amazing <a href='http://authenticweather.com/'>Authentic Weather App<a> by the genius designer <a href='http://www.vanschneider.com/'>Tobias Van Schneider</a>. We'll learn the absolute basics of <a href='https://medium.com/@JustinNothling/why-you-should-learn-react-native-3c1478e6d7f4'>React Native</a> and programming in Javascript. So if you're new to React Native, or just new to programming altogether, then this course is for you.
 
 ## Built With
 
