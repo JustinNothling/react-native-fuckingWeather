@@ -1,80 +1,16 @@
 # Build a Fucking Weather App
 
-In this course we'll be cloning the amazing <a href='http://authenticweather.com/'>Authentic Weather App<a> by the genius designer Tobias Van Schneider. We'll learn the absolute basics of React Native and programming in Javascript. So if you're new to React Native, or just new to programming altogether, then you must take this course before you take the more advanced courses like building Tinder or Uber.
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+In this course we'll be cloning the amazing <a href='http://authenticweather.com/'>Authentic Weather App<a> by the genius designer <a href='http://www.vanschneider.com/'>Tobias Van Schneider</a>. We'll learn the absolute basics of <a href='https://medium.com/@JustinNothling/why-you-should-learn-react-native-3c1478e6d7f4'>React Native</a> and programming in Javascript. So if you're new to React Native, or just new to programming altogether, then this course is for you. . . and the best part. . . it's free. Signup at <a href='https://cloneable.io/'>Cloneable</a>
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [React Native](http://www.dropwizard.io/1.0.2/docs/) - The framework used
+* [Open weather Map](https://openweathermap.org/) - Weather API
+* [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Icons
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Justin Nothling** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 ## License
 
@@ -82,6 +18,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Inspired by <a href='http://www.vanschneider.com/'>Tobias Van Schneider's</a> Authentic Weather <a href='http://authenticweather.com/'>App<a>
