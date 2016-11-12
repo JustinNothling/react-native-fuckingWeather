@@ -10,7 +10,7 @@ In this course we'll be cloning the amazing <a href='http://authenticweather.com
 
 ## Authors
 
-* **Justin Nothling** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Justin Nothling**
 
 ## License
 
