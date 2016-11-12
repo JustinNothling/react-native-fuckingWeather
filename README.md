@@ -1,6 +1,6 @@
 # Build a Fucking Weather App
 
-Source code from the <a href='https://cloneable.io/'>Cloneable course</a>, Signup at <a href='https://cloneable.io/'>Cloneable</a> - it's free.
+Signup at <a href='https://cloneable.io/'>Cloneable</a> - it's free.
 
 ![Alt Text](https://github.com/justinnothling/react-native-fuckingWeather/raw/master/demo.gif)
 
