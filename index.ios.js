@@ -20,6 +20,7 @@ const iconNames = {
 	Clouds: 'md-cloudy' ,
 	Snow: 'md-snow' ,
 	Drizzle: 'md-umbrella' ,
+	Mist: 'md-partly-sunny'
 }
 
 const phrases = {
@@ -69,6 +70,13 @@ const phrases = {
 		title: "Meh... don't even ask",
 		subtitle: "What did I just say?",
 		highlight: "don't",
+		color: "#B3F6E4",
+		background: "#1FBB68"
+	},
+	Mist: {
+		title: "Mist title",
+		subtitle: "Mist sub",
+		highlight: "Mist",
 		color: "#B3F6E4",
 		background: "#1FBB68"
 	},
