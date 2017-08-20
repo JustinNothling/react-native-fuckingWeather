@@ -26,7 +26,7 @@ const iconNames = {
 const phrases = {
 	Default: {
 		title: "Fetching the Fucking Weather",
-		subtitle: "Be patient, you're witnessing a miricle",
+		subtitle: "Be patient, you're witnessing a miracle",
 		highlight: "Fucking",
 		color: "#636363",
 		background: "#9C9C9C"
